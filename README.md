@@ -1,0 +1,2 @@
+# BatchNorm
+AI - Batch Normalization
